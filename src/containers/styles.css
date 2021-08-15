@@ -1,0 +1,10 @@
+.pokemons{
+  background-color: #f4f4f4;
+  margin: 3% 2% 2% 20%;
+  height: 40rem;
+  width: 37.25rem;
+  border-radius: 50px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  overflow: scroll;
+}
